@@ -9,7 +9,9 @@ Turning to CS168, I found its learning materials extremely well-organized. The a
 
 So I thought: Can I study using the CS168 materials but do the CS144 Labs? 
 
-Practice proved this to be a feasible path. I have listed the resources used and my study schedule below for reference. I hope this helps you.
+Practice proved this to be a feasible path. I have listed the resources used and my study schedule below for reference.
+
+The CS144 Fall 2025 starter code is also backed up in this repository and the lab handouts are placed in the [handouts](./handouts/) folder. I hope this helps you.
 
 | Resource | Link |
 | :--- | :--- |
